@@ -10,7 +10,7 @@ const url = 'https://static.wikitide.net/hololivewiki/thumb/8/88/Elizabeth_Rose_
   return (
 
     <div className = "App">
-      <h1>Hololive Justice</h1>
+      <h1>Hololive: Justice</h1>
       <p>Essa e {newName} </p>
       <img src={url} alt='Elizabeth' />
       <Gigi />
