@@ -1,4 +1,3 @@
-import Kronii from "./Kronii"
 function Fuwamoco () {
     const name = 'Fuwawa e Mococo'
     const newName = name.toUpperCase()
@@ -10,7 +9,6 @@ function Fuwamoco () {
             <p>Essas são {newName}</p>
             <img src={url} alt='Fuwawa' />
             <img src={url1} alt='Mococo' />
-            <Kronii />
         </div>
     );
 }
